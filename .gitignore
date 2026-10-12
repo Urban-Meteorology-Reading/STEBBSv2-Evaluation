@@ -9,6 +9,7 @@ __pycache__/
 
 # Input data
 **/input/OSTopography/
+**/input/OSBuildingHeights/
 
 # Temporary files
 **/BRTYND_site_characterisation/output/temp/
