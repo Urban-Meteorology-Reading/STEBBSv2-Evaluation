@@ -8,4 +8,8 @@ __pycache__/
 ~*.*
 
 # Input data
-**/input/
+**/input/OSTopography/
+
+# Temporary files
+**/BRTYND_site_characterisation/output/temp/
+
