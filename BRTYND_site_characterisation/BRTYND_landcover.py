@@ -3,6 +3,9 @@ Process OS MasterMap Topography land use data to derive SUEWS
 landcover fractions for the Tyndall's Park Bristol neighbourhood
 around the ASSURE-urbisphere site BRTYND
 
+Raw OS data obtained from:
+OS MasterMap Topography Layer [FileGeoDatabase geospatial data], Scale 1:1250, Tiles: GB, Updated: 25 May 2023, Ordnance Survey (GB), Using: EDINA Digimap Ordnance Survey Service, <https://digimap.edina.ac.uk>, Downloaded: 2023-12-13 15:57:52.211
+
 Using
 - Python v3.12.13
 - GeoPandas v1.1.4
