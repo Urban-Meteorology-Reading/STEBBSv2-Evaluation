@@ -40,7 +40,7 @@ cols_to_keep = ['layer','geometry']
 BRTYND_domain = BRTYND_domain[cols_to_keep].copy(deep=True)
 BRTYND_domain['grid_250m'] = np.nan
 BRTYND_domain['grid_250m'] = BRTYND_domain['grid_250m'].astype('object')
-BRTYND_domain.loc[BRTYND_domain['layer']=='SphereHouse_grid_27700','grid_250m'] = 'grid_250m'
+BRTYND_domain.loc[BRTYND_domain['layer']=='BRTYND_grid_27700','grid_250m'] = 'grid_250m'
 BRTYND_domain.loc[BRTYND_domain['layer']=='Symmetrical difference','grid_250m'] = 'outside'
 BRTYND_domain.to_file('./output/temp/BRTYND_domain_buffered.shp')
 
