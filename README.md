@@ -5,7 +5,7 @@ derivation, model evaluation, and visualisation for the research paper:
 
 **Building energy modelling for urban weather and climate studies: STEBBS v2.0**
 
-*Yiqing Liu, Denise Hertwig, Keisuke Nakao, Stefán T. Smith, Andreas Christen, Robin J. Hogan, Vitor Lavor, Matthew Paskin, James Matthews, Silvia Rognone, Leon Sander, Ting Sun, Sue Grimmond*
+*Yiqing Liu, Denise Hertwig, Keisuke Nakao, Stefán T. Smith, Andreas Christen, Robin J. Hogan, Vitor Lavor, Matthew Paskin, James Matthews, Silvia Rognone, Leon Sander, Markus Sulzer, Ting Sun, Sue Grimmond*
 
 Prepared for submission to **Geoscientific Model Development**.
 
