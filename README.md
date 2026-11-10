@@ -44,9 +44,9 @@ The modelling inputs and outputs for both SUEWS-STEBBS and EnergyPlus are
 archived on Zenodo: [10.5281/zenodo.23955440](https://doi.org/10.5281/zenodo.23955440).
 
 Outdoor meteorological and radiation observations are embargoed and are
-not publicly available. They are not included in this repository or the
+not currently publicly available. They are not included in this repository or the
 Zenodo modelling archive. The processed indoor
-evaluation sample and ERA5 radiation CSV are included in this repository.
+evaluation sample and ERA5 radiation data are included in this repository.
 
 ## Using the repository
 
