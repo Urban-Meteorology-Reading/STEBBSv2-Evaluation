@@ -7,7 +7,7 @@ derivation, model evaluation, and visualisation for the research paper:
 
 *Yiqing Liu, Denise Hertwig, Keisuke Nakao, Stefán T. Smith, Andreas Christen, Robin J. Hogan, Vitor Lavor, Matthew Paskin, James Matthews, Silvia Rognone, Leon Sander, Markus Sulzer, Ting Sun, Sue Grimmond*
 
-Prepared for submission to **Geoscientific Model Development**.
+Prepared for submission to **Geoscientific Model Development**. Hereafter referred to as Liu et al. (2026).
 
 The site characterisation focuses on the 250 m × 250 m neighbourhood around
 the BRTYND ASSURE-urbisphere site in Tyndall's Park, Bristol. The evaluation
@@ -41,7 +41,9 @@ STEBBSv2-Evaluation/
 ## Data availability
 
 The modelling inputs and outputs for both SUEWS-STEBBS and EnergyPlus are
-archived on Zenodo: [10.5281/zenodo.23955440](https://doi.org/10.5281/zenodo.23955440).
+archived on Zenodo:
+
+Liu, Y., Hertwig, D., Nakao, K., Smith, S. T., Christen, A., Hogan, R. J., Lavor, V., Paskin, M., Matthews, J., Rognone, S., Sander, L., Sulzer, M., Sun, T., & Grimmond, S. (2026). "Building energy modelling for urban weather and climate studies: STEBBS v2.0": Model input and output (Version v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23955440
 
 Outdoor meteorological and radiation observations are embargoed and are
 not currently publicly available. They are not included in this repository or the
