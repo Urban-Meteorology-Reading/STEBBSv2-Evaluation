@@ -58,8 +58,7 @@ frontal area calculations. These scripts use NumPy, pandas, GeoPandas, and
 Shapely; building preparation also requires QGIS and its Python processing
 tools. The raw Ordnance Survey building-height and topography datasets must
 be supplied separately under `input/OSBuildingHeights/` and
-`input/OSTopography/`, with paths adjusted in the scripts. These inputs and
-temporary processing files are excluded from version control; derived CSVs
+`input/OSTopography/`, with paths adjusted in the scripts (references of the primary Ordnance Survey input datasets are provided in the scripts). These inputs and temporary processing files are excluded from version control; derived CSVs
 are included in `output/`.
 
 **Model evaluation.** Open
@@ -67,7 +66,7 @@ are included in `output/`.
 `Evaluation/` as the working directory. Set `MODEL_DATA` to the extracted
 modelling-data folder containing `SUEWS_STEBBS_modelling/` and
 `EnergyPlus_modelling/` from the Zenodo archive above, then
-run cells in order to generate Figures 10–15. The required `vik.txt` and
+run cells in order to generate Figures 10–15 of Liu et al. (2026). The required `vik.txt` and
 `vik_neutral.txt` colourmap tables are included in `Evaluation/colourmaps/`;
 see the [colourmap documentation](Evaluation/colourmaps/README.md). This analysis uses existing model outputs;
 no simulation rerun is needed. The
@@ -76,7 +75,7 @@ July and 26 November–16 December 2025 at 15-minute resolution.
 
 **Solar radiation evaluation.**
 [`solar_radiation_evaluation.ipynb`](Evaluation/solar_radiation_evaluation.ipynb)
-contains the analysis code for Figure 8 and Figures S6.1–S6.2. Running it
+contains the analysis code for Figure 8 and Figures S6.1–S6.2 of Liu et al. (2026). Running it
 requires authorised access to the embargoed outdoor meteorological and
 radiation observations. Both notebooks use
 NumPy, pandas, Matplotlib, and Jupyter; the solar radiation notebook also
