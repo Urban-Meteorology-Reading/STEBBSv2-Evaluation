@@ -1,13 +1,10 @@
-# Draft: confirm the code archive's authors and their order before release.
-# The provisional author list below follows the paper author list in README.md.
-# Add the repository release version and release date before publishing.
-# Add a code DOI only after one has been assigned.
 cff-version: 1.2.0
-type: software
-license: "MIT"
 title: >-
   "Building energy modelling for urban weather and climate studies: STEBBS v2.0":
   Site characterisation and model evaluation code
+version: 1.0.0
+license: "MIT"
+type: software
 message: >-
   If you use these scripts, notebooks, or supporting files, please cite
   the archived release of this repository. See README.md for the associated
