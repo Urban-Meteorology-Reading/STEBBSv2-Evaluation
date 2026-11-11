@@ -68,9 +68,7 @@ are included in `output/`.
 `Evaluation/` as the working directory. Set `MODEL_DATA` to the extracted
 modelling-data folder containing `SUEWS_STEBBS_modelling/` and
 `EnergyPlus_modelling/` from the Zenodo archive above, then
-run cells in order to generate Figures 10–15 of Liu et al. (2026). The required `vik.txt` and
-`vik_neutral.txt` colourmap tables are included in `Evaluation/colourmaps/`;
-see the [colourmap documentation](Evaluation/colourmaps/README.md). This analysis uses existing model outputs;
+run cells in order to generate Figures 10–15 of Liu et al. (2026). This analysis uses existing model outputs;
 no simulation rerun is needed. The
 [included indoor sample](Evaluation/sample_indoor_observation/) covers
 July and 26 November–16 December 2025 at 15-minute resolution.
