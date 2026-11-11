@@ -1,0 +1,61 @@
+# Draft: confirm the code archive's authors and their order before release.
+# The provisional author list below follows the paper author list in README.md.
+# Add the repository release version and release date before publishing.
+# Add a code DOI only after one has been assigned.
+cff-version: 1.2.0
+type: software
+license: "MIT"
+title: >-
+  "Building energy modelling for urban weather and climate studies: STEBBS v2.0":
+  Site characterisation and model evaluation code
+message: >-
+  If you use these scripts, notebooks, or supporting files, please cite
+  the archived release of this repository. See README.md for the associated
+  study and the separate model input and output dataset.
+authors:
+  - family-names: Liu
+    given-names: Yiqing
+  - family-names: Hertwig
+    given-names: Denise
+  - family-names: Nakao
+    given-names: Keisuke
+  - family-names: Smith
+    given-names: "Stefán T."
+  - family-names: Christen
+    given-names: Andreas
+  - family-names: Hogan
+    given-names: "Robin J."
+  - family-names: Lavor
+    given-names: Vitor
+  - family-names: Paskin
+    given-names: Matthew
+  - family-names: Matthews
+    given-names: James
+  - family-names: Rognone
+    given-names: Silvia
+  - family-names: Sander
+    given-names: Leon
+  - family-names: Sulzer
+    given-names: Markus
+  - family-names: Sun
+    given-names: Ting
+  - family-names: Grimmond
+    given-names: Sue
+repository-code: "https://github.com/Urban-Meteorology-Reading/STEBBSv2-Evaluation"
+abstract: >-
+  Python scripts, Jupyter notebooks, and supporting data for site parameter
+  derivation, model evaluation, and visualisation accompanying the study
+  "Building energy modelling for urban weather and climate studies: STEBBS v2.0".
+  The repository includes characterisation of the BRTYND site in Bristol,
+  evaluation of SUEWS-STEBBS and EnergyPlus simulations against indoor
+  observations, and evaluation of solar radiation splitting methods for
+  Bristol and Berlin. Model input and output files are archived separately
+  at https://doi.org/10.5281/zenodo.23955440. See README.md for dependencies,
+  external-data requirements, and data availability.
+keywords:
+  - STEBBS
+  - SUEWS
+  - EnergyPlus
+  - urban climate
+  - building energy modelling
+  - model evaluation
